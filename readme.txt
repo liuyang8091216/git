@@ -4,4 +4,5 @@ git ha a mutable index called stage.
 Git tracks changes.
 liuyang is very good.
 Creating a new branch is quick AND simple.
+new add.
 
